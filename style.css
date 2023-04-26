@@ -1,0 +1,15 @@
+body{background-color: beige;}
+
+.topo{display: flex;
+}
+
+.alunos{display: inline-block;}
+
+.descicao{display: flex;
+justify-content: space-around;
+}
+
+
+
+
+
